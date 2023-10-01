@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Gopi Govindraj</h1><br>
-<img align="right" alt="Banner" height ="200" width="400" src="img/banner.png">
+<img align="right" alt="Banner"  src="img/banner.png">
+<h1 align="center">Hi 👋, I'm Gopi Govindraj</h1>
+
 <h3 align="center">A enthustiatic learner from India</h3>
 <img align="right" alt="Coding" width="400" src="img/programmer.jpg">
 
