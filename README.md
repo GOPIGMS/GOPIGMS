@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gopi Govindraj</h1>
 <h3 align="center">A enthustiatic learner from India</h3>
-<img align="right" alt="Coding" width="400" src="(img align="right" alt="Coding" width="400" src="C:\Users\Admin\GOPIGMS\img">
+<img align="right" alt="Coding" width="400" src="(img align="right" alt="Coding" width="400" src="img/programmer.jpg">
 
 
 
